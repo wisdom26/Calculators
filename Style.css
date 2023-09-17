@@ -67,8 +67,7 @@ border: 2px solid #edf1f4;
 .calculator .buttons span#clear:active,
 .calculator .buttons span#plus:active,
 .calculator .buttons span#equal:active{
- box-shadow: 5px 5px 10px rgba(0,0,0,0.1),-5px -5px 10px #fff,
-		inset 5px 5px 10px rgba(0,0,0,0.1);
+ box-shadow: 5px 5px 10px rgba(0,0,0,0.1),-5px -5px 10px #fff,inset 5px 5px 10px rgba(0,0,0,0.1);
 }
 .tagglebtn {
 position: fixed;
@@ -92,8 +91,7 @@ box-shadow:15px 15px 20px rgba(0,0,0,0.25),-15px -15px 20px rgba(255,255,255,0.1
 .dark .calculator .buttons #value {
 background: #33393e;
 color: #eee;
-box-shadow: inset 15px 15px 20px rgba(0,0,0,0.5),
-            inset -15px -15px 20px rgba(255,255,255,0.1);
+box-shadow: inset 15px 15px 20px rgba(0,0,0,0.5),inset -15px -15px 20px rgba(255,255,255,0.1);
 }
 .dark .calculator.buttons span {
 color: #eee;
@@ -101,8 +99,7 @@ border: 2px solid #333;
 box-shadow: 5px 5px 10px rgba(0,0,0,0.25),-5px -5px 10px rgba(255,255,255,0.1);
 }
 .dark .calculator .buttons span:active {
-box-shadow: inset 5px 5px 10px rgba(0,0,0,0.25),
-            inset -5px -5px 10px rgba(255,255,255,0.1);
+box-shadow: inset 5px 5px 10px rgba(0,0,0,0.25),inset -5px -5px 10px rgba(255,255,255,0.1);
 }
 .dark .calculator .buttons span#clear,
 .dark .calculator .buttons span#plus,
